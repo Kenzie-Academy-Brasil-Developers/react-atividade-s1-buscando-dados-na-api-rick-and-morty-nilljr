@@ -1,0 +1,12 @@
+.card {
+  width: fit-content;
+  max-width: 30vw;
+}
+
+.alive {
+  border: 3px green solid;
+}
+
+.dead {
+  border: 3px red solid;
+}
